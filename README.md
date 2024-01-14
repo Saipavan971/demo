@@ -1,2 +1,4 @@
-#This is a demo file while creating first Git repo
-    
+# Demo    
+
+This is a demo file while creating first Git repo
+
